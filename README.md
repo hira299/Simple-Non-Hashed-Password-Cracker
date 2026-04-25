@@ -1,4 +1,3 @@
----
 # Simple Non-Hashed Password Cracker
 ---
 ## Overview
@@ -15,8 +14,8 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-cracker.git
-   cd password-cracker
+   git clone https://github.com/hira299/non-hashpassword-cracker.git
+
    ```
 
 2. Install the required packages:
